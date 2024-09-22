@@ -7,45 +7,21 @@ A quick coding quiz written with javascript
 
 ## Table of Contents 
 
-* [Installation](#installation)
-
-* [Usage](#usage)
+* [Links](#links)
 
 * [License](#license)
 
-* [Contributing](#contributing)
-
-* [Tests](#tests)
-
 * [Questions](#questions)
 
-## Installation
 
-To install necessary dependencies, run the following command:
+## Links
 
-```
-npm i
-```
-
-## Usage
-
-
+Deployed link here - https://schorij23.github.io/js-coding-quiz/
 
 ## License
 
 This project is licensed under the MIT license.
   
-## Contributing
-
-
-
-## Tests
-
-To run tests, run the following command:
-
-```
-npm test
-```
 
 ## Questions
 
