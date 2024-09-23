@@ -11,6 +11,8 @@ A quick coding quiz written with javascript
 
 * [License](#license)
 
+* [Screenshot](#screenshot)
+
 * [Questions](#questions)
 
 
@@ -22,6 +24,8 @@ Deployed link here - https://schorij23.github.io/js-coding-quiz/
 
 This project is licensed under the MIT license.
   
+## Screenshot
+![JavaScript Quiz Screenshot](./assets/image/js-quiz.png)
 
 ## Questions
 
