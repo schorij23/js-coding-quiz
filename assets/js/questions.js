@@ -8,7 +8,7 @@ var questions = [
   {
     title: 'Which method adds an element to the end of an array?',
     choices: ['shift()', 'push()', 'pop()', 'unshift()'],
-    answer: 'push',
+    answer: 'push ()',
   },
   {
     title: 'Which method converts a JavaScript object into a JSON string?',
@@ -18,18 +18,18 @@ var questions = [
       'JSON.stringify()',
       'JSON.toString()',
     ],
-    answer: 'JSON.Stringify()',
+    answer: 'JSON.stringify()',
   },
   {
     title:
       'Which keyword is used to define a function?',
     choices: ['method', 'func', 'function', 'defines'],
-    answer: 'Function',
+    answer: 'function',
   },
   {
     title:
       'Which symbol is used for strict equality comparison?',
     choices: ['=', '==', '===', '!='],
-    answer: 'console.log',
+    answer: '===',
   },
 ];
