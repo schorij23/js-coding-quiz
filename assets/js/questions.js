@@ -8,7 +8,7 @@ var questions = [
   {
     title: 'Which method adds an element to the end of an array?',
     choices: ['shift()', 'push()', 'pop()', 'unshift()'],
-    answer: 'push ()',
+    answer: 'push()',
   },
   {
     title: 'Which method converts a JavaScript object into a JSON string?',
