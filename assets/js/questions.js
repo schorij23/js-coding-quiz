@@ -1,35 +1,35 @@
 // list of all questions, choices, and answers
 var questions = [
   {
-    title: 'Commonly used data types DO NOT include:',
-    choices: ['strings', 'booleans', 'alerts', 'numbers'],
-    answer: 'alerts',
+    title: 'Which keyword declares a variable that cannot be reassigned?',
+    choices: ['var', 'let', 'static', 'const'],
+    answer: 'const',
   },
   {
-    title: 'The condition in an if / else statement is enclosed within ____.',
-    choices: ['quotes', 'curly brackets', 'parentheses', 'square brackets'],
-    answer: 'parentheses',
+    title: 'Which method adds an element to the end of an array?',
+    choices: ['shift()', 'push()', 'pop()', 'unshift()'],
+    answer: 'push',
   },
   {
-    title: 'Arrays in JavaScript can be used to store ____.',
+    title: 'Which method converts a JavaScript object into a JSON string?',
     choices: [
-      'numbers and strings',
-      'other arrays',
-      'booleans',
-      'all of the above',
+      'JSON.parse()',
+      'JSON.string()',
+      'JSON.stringify()',
+      'JSON.toString()',
     ],
-    answer: 'all of the above',
+    answer: 'JSON.Stringify()',
   },
   {
     title:
-      'String values must be enclosed within ____ when being assigned to variables.',
-    choices: ['commas', 'curly brackets', 'quotes', 'parentheses'],
-    answer: 'quotes',
+      'Which keyword is used to define a function?',
+    choices: ['method', 'func', 'function', 'defines'],
+    answer: 'Function',
   },
   {
     title:
-      'A very useful tool used during development and debugging for printing content to the debugger is:',
-    choices: ['JavaScript', 'terminal / bash', 'for loops', 'console.log'],
+      'Which symbol is used for strict equality comparison?',
+    choices: ['=', '==', '===', '!='],
     answer: 'console.log',
   },
 ];
